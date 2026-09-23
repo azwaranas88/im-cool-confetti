@@ -1,2 +1,3 @@
 # im-cool-confetti
-A simple UI displaying “im cool” with confetti.
+
+A tiny UI that displays “im cool” with a confetti celebration effect.
